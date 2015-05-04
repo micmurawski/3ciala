@@ -1,0 +1,8 @@
+import c
+import math
+from visual import *
+from visual.graph import *
+
+
+symulacja()
+  

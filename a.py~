@@ -1,0 +1,21 @@
+#!/usr/bin/python
+from visual import *
+from visual.graph import *
+import math
+
+
+class body:
+  vector x
+  vector v
+  double m
+  double r
+  b = sphere(pos = x, radius = r, color = color.red)
+  SetColor(x)
+    b.color=color.x
+    
+  
+
+
+
+
+
